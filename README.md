@@ -1,20 +1,17 @@
-### Hi there 👋 It's me jit Full Stack Web Developer
-###  Knowledge  :notebook_with_decorative_cover:
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black">
-### Framework
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+```typescript
+class Bio {
+  name:string     = 'Jit Bdr Rana';
+  title:string    = 'Full Stack Web Developer';
+  location:string = 'kathmandu,nepal';
+}
+class Skills extends Bio {
+  languages:string[]  = ['JavaScript','Java','TypeScript', 'PHP'];
+  databases:string[]  = ['MySQL', 'MongoDB'];
+  frameworks:string[] = ['React', 'Next.js','Angular','Node.js','Spring','TailwindCss','Bootstrap'];
+}
+```
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jit-rana-magar-4a557516a/)
 
-<!--
-**Jit-Bdr-Rana/Jit-Bdr-Rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Angular/Spring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
