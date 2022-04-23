@@ -1,6 +1,6 @@
 ```typescript
 class Bio {
-  name:string     = 'Jit Bdr Rana';
+  name:string     = 'Jit Rana Magar';
   title:string    = 'Full Stack Web Developer';
   location:string = 'kathmandu,nepal';
 }
