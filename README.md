@@ -7,7 +7,7 @@ class Bio {
 class Skills extends Bio {
   languages:string[]  = ['JavaScript','Java','TypeScript', 'PHP'];
   databases:string[]  = ['MySQL', 'MongoDB'];
-  frameworks:string[] = ['React', 'Next','Angular','Node','Spring','Laravel','TailwindCss','Bootstrap','MaterialUI'];
+  frameworks:string[] = ['React', 'Next','Nest','Angular','Node','Spring','Laravel','TailwindCss','Bootstrap','MaterialUI','AntDesign'];
 }
 ```
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jit-rana-magar-4a557516a/)
